@@ -10,3 +10,6 @@ To understand and determine how these factors relate to workforce attrition.
 
 **Kaggle link and dataset**
 https://www.kaggle.com/patelprashant/employee-attrition
+
+**Approach**
+We will identify the important factors for workforce attrition using Gradient Boosting Algorithm (GBM)
